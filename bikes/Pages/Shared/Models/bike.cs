@@ -14,6 +14,8 @@ namespace bikes.Models
         public string Company { get; set; }
         public string Power { get; set; }
         public decimal Cost { get; set; }
+        public int Rating { get; set; }
+        public string Colour { get; set; }
 
     }
 }
