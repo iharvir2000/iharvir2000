@@ -28,7 +28,7 @@ namespace bikes.Models
                         Power = "250W electric motor",
                         Place = "United States",
                         Cost = 1499.00M,
-                        Rating = 1,
+                        Rating = 7,
                         Colour = "Red"
                     },
 
@@ -40,8 +40,8 @@ namespace bikes.Models
                         Power = "500W electric motor",
                         Place = "Germany",
                         Cost = 2799.00M,
-                        Rating = 1,
-                        Colour = "Red"
+                        Rating = 8,
+                        Colour = "Black"
                     },
 
                     new bike
@@ -52,8 +52,8 @@ namespace bikes.Models
                         Power = "650W electric motor",
                         Place = "Japan",
                         Cost = 3999.00M,
-                        Rating = 1,
-                        Colour = "Red"
+                        Rating = 9,
+                        Colour = "Yellow"
                     },
 
                     new bike
@@ -64,8 +64,8 @@ namespace bikes.Models
                         Power = "350W electric motor",
                         Place = "Canada",
                         Cost = 2199.00M,
-                        Rating = 1,
-                        Colour = "Red"
+                        Rating = 6,
+                        Colour = "Brown"
                     },
 
                     new bike
@@ -76,8 +76,8 @@ namespace bikes.Models
                         Power = "250W electric motor",
                         Place = "Netherlands",
                         Cost = 1899.00M,
-                        Rating = 1,
-                        Colour = "Red"
+                        Rating = 8,
+                        Colour = "White"
                     },
 
                     new bike
@@ -88,8 +88,8 @@ namespace bikes.Models
                         Power = "750W electric motor",
                         Place = "Italy",
                         Cost = 4599.00M,
-                        Rating = 1,
-                        Colour = "Red"
+                        Rating = 5,
+                        Colour = "Orange"
                     },
 
                     new bike
@@ -100,8 +100,8 @@ namespace bikes.Models
                         Power = "500W electric motor",
                         Place = "France",
                         Cost = 2299.00M,
-                        Rating = 1,
-                        Colour = "Red"
+                        Rating = 9,
+                        Colour = "Black"
                     },
 
                     new bike
@@ -112,7 +112,7 @@ namespace bikes.Models
                         Power = "1000W electric motor",
                         Place = "Australia",
                         Cost = 5299.00M,
-                        Rating = 1,
+                        Rating = 10,
                         Colour = "Red"
                     }
                 );
