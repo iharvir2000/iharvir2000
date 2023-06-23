@@ -27,7 +27,9 @@ namespace bikes.Models
                         Company = "EcoRider",
                         Power = "250W electric motor",
                         Place = "United States",
-                        Cost = 1499.00M
+                        Cost = 1499.00M,
+                        Rating = 1,
+                        Colour = "Red"
                     },
 
                     new bike
@@ -37,7 +39,9 @@ namespace bikes.Models
                         Company = "VeloTech",
                         Power = "500W electric motor",
                         Place = "Germany",
-                        Cost = 2799.00M
+                        Cost = 2799.00M,
+                        Rating = 1,
+                        Colour = "Red"
                     },
 
                     new bike
@@ -47,7 +51,9 @@ namespace bikes.Models
                         Company = "SpeedMaster",
                         Power = "650W electric motor",
                         Place = "Japan",
-                        Cost = 3999.00M
+                        Cost = 3999.00M,
+                        Rating = 1,
+                        Colour = "Red"
                     },
 
                     new bike
@@ -57,7 +63,9 @@ namespace bikes.Models
                         Company = "MountainKing",
                         Power = "350W electric motor",
                         Place = "Canada",
-                        Cost = 2199.00M
+                        Cost = 2199.00M,
+                        Rating = 1,
+                        Colour = "Red"
                     },
 
                     new bike
@@ -67,7 +75,9 @@ namespace bikes.Models
                         Company = "CityCruiser",
                         Power = "250W electric motor",
                         Place = "Netherlands",
-                        Cost = 1899.00M
+                        Cost = 1899.00M,
+                        Rating = 1,
+                        Colour = "Red"
                     },
 
                     new bike
@@ -77,7 +87,9 @@ namespace bikes.Models
                         Company = "TouringPro",
                         Power = "750W electric motor",
                         Place = "Italy",
-                        Cost = 4599.00M
+                        Cost = 4599.00M,
+                        Rating = 1,
+                        Colour = "Red"
                     },
 
                     new bike
@@ -87,7 +99,9 @@ namespace bikes.Models
                         Company = "UrbanGlide",
                         Power = "500W electric motor",
                         Place = "France",
-                        Cost = 2299.00M
+                        Cost = 2299.00M,
+                        Rating = 1,
+                        Colour = "Red"
                     },
 
                     new bike
@@ -97,7 +111,9 @@ namespace bikes.Models
                         Company = "OffRoadXtreme",
                         Power = "1000W electric motor",
                         Place = "Australia",
-                        Cost = 5299.00M
+                        Cost = 5299.00M,
+                        Rating = 1,
+                        Colour = "Red"
                     }
                 );
 
