@@ -44,6 +44,16 @@
                 <span asp-validation-for="bike.Cost" class="text-danger"></span>
             </div>
             <div class="form-group">
+                <label asp-for="bike.Rating" class="control-label"></label>
+                <input asp-for="bike.Rating" class="form-control" />
+                <span asp-validation-for="bike.Rating" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="bike.Colour" class="control-label"></label>
+                <input asp-for="bike.Colour" class="form-control" />
+                <span asp-validation-for="bike.Colour" class="text-danger"></span>
+            </div>
+            <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-primary" />
             </div>
         </form>
