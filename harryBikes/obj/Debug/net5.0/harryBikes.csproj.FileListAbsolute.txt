@@ -1,0 +1,17 @@
+C:\Users\kunjp\OneDrive\Desktop\WEB315_SPRING_ASSIGNMENT\iharvir2000\harryBikes\obj\Debug\net5.0\harryBikes.csproj.AssemblyReference.cache
+C:\Users\kunjp\OneDrive\Desktop\WEB315_SPRING_ASSIGNMENT\iharvir2000\harryBikes\obj\Debug\net5.0\harryBikes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunjp\OneDrive\Desktop\WEB315_SPRING_ASSIGNMENT\iharvir2000\harryBikes\obj\Debug\net5.0\harryBikes.AssemblyInfoInputs.cache
+C:\Users\kunjp\OneDrive\Desktop\WEB315_SPRING_ASSIGNMENT\iharvir2000\harryBikes\obj\Debug\net5.0\harryBikes.AssemblyInfo.cs
+C:\Users\kunjp\OneDrive\Desktop\WEB315_SPRING_ASSIGNMENT\iharvir2000\harryBikes\obj\Debug\net5.0\harryBikes.csproj.CoreCompileInputs.cache
+C:\Users\kunjp\OneDrive\Desktop\WEB315_SPRING_ASSIGNMENT\iharvir2000\harryBikes\obj\Debug\net5.0\harryBikes.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kunjp\OneDrive\Desktop\WEB315_SPRING_ASSIGNMENT\iharvir2000\harryBikes\obj\Debug\net5.0\harryBikes.RazorComponent.input.cache
+C:\Users\kunjp\OneDrive\Desktop\WEB315_SPRING_ASSIGNMENT\iharvir2000\harryBikes\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\kunjp\OneDrive\Desktop\WEB315_SPRING_ASSIGNMENT\iharvir2000\harryBikes\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\kunjp\OneDrive\Desktop\WEB315_SPRING_ASSIGNMENT\iharvir2000\harryBikes\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\kunjp\OneDrive\Desktop\WEB315_SPRING_ASSIGNMENT\iharvir2000\harryBikes\obj\Debug\net5.0\RazorDeclaration\Pages\HarryBikes.razor.g.cs
+C:\Users\kunjp\OneDrive\Desktop\WEB315_SPRING_ASSIGNMENT\iharvir2000\harryBikes\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\kunjp\OneDrive\Desktop\WEB315_SPRING_ASSIGNMENT\iharvir2000\harryBikes\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\kunjp\OneDrive\Desktop\WEB315_SPRING_ASSIGNMENT\iharvir2000\harryBikes\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\kunjp\OneDrive\Desktop\WEB315_SPRING_ASSIGNMENT\iharvir2000\harryBikes\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\kunjp\OneDrive\Desktop\WEB315_SPRING_ASSIGNMENT\iharvir2000\harryBikes\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\kunjp\OneDrive\Desktop\WEB315_SPRING_ASSIGNMENT\iharvir2000\harryBikes\obj\Debug\net5.0\harryBikes.RazorComponent.output.cache

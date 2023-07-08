@@ -1,0 +1,44 @@
+@page "/Bikes";
+
+<label for="limit">Limit:</label>
+<input type="number" id="limit" name="limit" min="0" max="10" @bind-value="limit" @bind-value:event="oninput" /><br/>
+<button class="btn btn-primary" @onclick="AddBikes">Add Bikes</button>
+
+<ul>
+    @foreach (var bike in bikeNames.Take(limit))
+    {
+        <li>@bike</li>
+    }
+</ul>
+
+@code{
+    private string[] bikeNames = new string[0];
+    private int limit = 5;
+
+    private void AddBikes()
+    {
+        carNames = new string[]
+        {
+            "BMX Bike",
+            "Mountain Bike",
+            "Road Bike",
+            "Cruiser Bike",
+            "Hybrid Bike",
+            "Electric Bike",
+            "Folding Bike",
+            "Gravel Bike",
+            "Fixed Gear Bike",
+            "Fat Bike"
+        };
+    }
+
+    private void SetLimit(string value)
+    {
+        int newLimit = int.Parse(value);
+        if (newLimit < 0 || newLimit > 10)
+        {
+            return;
+        }
+        limit = newLimit;
+    }
+}
